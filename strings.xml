@@ -1,0 +1,47 @@
+<resources>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="on">on</string>
+    <string name="off">Off</string>
+    <string name="Led_On">Light On</string>
+    <string name="Led_Off">Light Off</string>
+    <string name="Led_Status">Led Status</string>
+    <string name="connection_state">Connection State</string>
+    <string name="control">Connect</string>
+    <string name="app_name">BLE Connect</string>
+    <string name="submit">Scan</string>
+    <string name="scan">Scan</string>
+    <string name="show">Show</string>
+    <string name="connect">Connect</string>
+    <string name="stop">Stop</string>
+    <string name="first_device">First Device</string>
+    <string name="second_device">Second Device</string>
+    <string name="nothing"> </string>
+    <string name="als">ALS: </string>
+    <string name="value">Value</string>
+    <string name="cap_sense">Cap Sense:</string>
+    <string name="no_touch">No touch</string>
+    <string name="ALSSL">Sensing Light</string>
+    <string name="AlSNSL">Not Sensing Light</string>
+    <string name="touch">Touch</string>
+    <string name="cap_sense_two">Cap Sense Two:</string>
+    <string name="als_two">ALS Two:</string>
+    <string name="battery">Battery:</string>
+</resources>
